@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Omar from Egypt<br><br>- 🔭 I’m working as Full-stack developer<br>- 📚 I'm currently learning .. DevOps<br>- ⚡ In my free time I ... i work on my project</p>
+<p align="left">I'm Omar from Egypt<br><br>- 🔭 I’m working as Full-stack developer<br>- 📚 I'm currently learning .. DevOps<br>- ⚡ In my free time  ... I work on my project</p>
 
 ###
 
